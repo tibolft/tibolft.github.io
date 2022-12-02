@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Me concernant ...
-subtitle: Voici comment bien présenter ma page
+title: Me concernant
+subtitle: La page pour mieux me connaitre
 ---
 
 Je suis actuellement étudiant en 3 ème année de 
