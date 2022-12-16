@@ -41,9 +41,9 @@ round-avatar: true
 social-network-links:
   email: laffitte.thibaud@gmail.com
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: lemonde
+#  facebook: lemonde
   github: tibolft
-  twitter: lemondefr
+#  twitter: lemondefr
 # patreon: DeanAttali
   youtube: channel/UCCWgE519sX7VKBCAYzZZrGA
 # medium: yourname
@@ -53,7 +53,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  spotify: yourname
+  spotify: 	h11x0gq2hswrlw8g9ln5gl2mh
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
