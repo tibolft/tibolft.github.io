@@ -9,4 +9,14 @@ thumbnail-img: /assets/img/Template Violet-Vert.jpg
 
 ![Post](/assets/img/Template Blanc.jpg)
 
+
+
 ![Post](/assets/img/Template Vert.jpg)
+
+
+
+![Post](/assets/img/Template Rouge.jpg)
+
+
+
+![Post](/assets/img/Template Bleu.jpg)
