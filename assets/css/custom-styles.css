@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif !important;
+  font-family: 'Russo One', 'Roboto', serif !important;
   font-size: 1.125rem !important;
   background-color: {{ site.page-col | default: "#171717" !important }};
 }
