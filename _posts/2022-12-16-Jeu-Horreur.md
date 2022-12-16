@@ -30,4 +30,4 @@ J'ai utilisé le logiciel Unity 3D afin de réaliser un jeu vidéo d'horreur. Un
 
 
 
-Si vous voulez plus d'information sur la création de jeu vidéo [Lien](https://unity.com/fr)
+Si vous voulez plus d'information sur la création de jeu vidéo avec Unity cliquez [ici](https://unity.com/fr)
