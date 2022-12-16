@@ -11,5 +11,5 @@ Etant passionné par le dessin et l’informatique depuis mon enfance, j’ai do
 
 J'aime les graphismes épurés et je suis fan de typo et de cartographie 
 
-![CV](assets/img/CV 2022-2023.pdf)
+![CV](assets/img/CV 2022-2023_page-0001.jpg)
 
