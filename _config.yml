@@ -41,14 +41,14 @@ round-avatar: true
 social-network-links:
   email: laffitte.thibaud@gmail.com
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: manumazu
-  github: manumazu
-  twitter: manumazu
+  facebook: lemonde
+  github: tibolft
+  twitter: lemondefr
 # patreon: DeanAttali
-  youtube: user/mrmanumazu
+  youtube: user/thibaudlaffitte8742
 # medium: yourname
 # reddit: yourname
-  linkedin: emmanuelmazurier
+  linkedin: thibaudlaffitte
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
