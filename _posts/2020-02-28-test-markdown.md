@@ -1,12 +1,8 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Animation sur le plastique
+subtitle: Prévention contre la pollution plastique
 thumbnail-img: /assets/img/Bouteille.jpg
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
 ---
 
 J’ai choisi ce storyboarding principalement pour l’aspect technique. En effet, contrairement à l’axe 1, il n’y a pas de notion 
@@ -34,11 +30,11 @@ solution.
 
 Le story board
 
-![storyboard](assets/img/Storyboard Plastique (1).jpg)
+![storyboard](/assets/img/Storyboard Plastique (1).jpg)
 
 Les images
 
-![image](assets/img/Bateau.jpg){: .mx-auto.d-block :}
+![image](/assets/img/Bateau.jpg){: .mx-auto.d-block :}
 
 Et le lien vers la vidéo:
 
