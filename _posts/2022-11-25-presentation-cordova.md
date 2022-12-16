@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Présentation de Cordova
-subtitle: Un framework multiOS pour applications mobiles 
-cover-img: /assets/img/capture-cordova.png
-thumbnail-img: /assets/img/capture-cordovathumb.png
-share-img: /assets/img/capture-cordova.png
-tags: [mobile, cordova]
+title: Post Instagram
+subtitle: Travail réalisé en entreprise
+thumbnail-img: /assets/img/Template Violet-Vert.jpg
 ---
 
-## Cordova permet de créer des applications mobiles interopérables
+## Création de post Instagram afin présenter le travail et les valeurs de l'entreprise
 
-Voir la [documentation](https://cordova.apache.org/) cordova
+![Post](/assets/img/Template Blanc.jpg)
+
+![Post](/assets/img/Template Vert.jpg)
